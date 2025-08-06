@@ -14,7 +14,7 @@ public class Task6 {
         }
     }
 }
-/** Пограмма выводит значение - person = Lev Tolstoy. Это происходит, потому что мы передали копию ссылки в методе
+ /** Пограмма выводит значение - person = Lev Tolstoy. Это происходит, потому что мы передали копию ссылки в методе
  *  public static void changePerson2(Person person) на объект Person person = new Person("Fedor", "Dostoevskiy").
  *  И мы в этом объекте меняем значение переменных на Lev Tolstoy.
  */
