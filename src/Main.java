@@ -14,7 +14,6 @@ public class Main {
         System.out.println("person = " + person);
         changePerson2(person);
         System.out.println("changePerson2 = " + person);
-
     }
 
     public static void changeValue(int value) {
@@ -34,4 +33,3 @@ public class Main {
 /** Задание 1. Программа выводит значение value = 33. Это происходит, потому что в Java передача переменных происходит по значению.
  * Примитивы всегда передаются по значению
  */
-
