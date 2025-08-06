@@ -6,7 +6,6 @@ public class Task4 {
         changeValue(value);
         System.out.println("value = " + Arrays.toString(value));
     }
-
     public static void changeValue(Integer[] value){
         value[0] = 99;
     }

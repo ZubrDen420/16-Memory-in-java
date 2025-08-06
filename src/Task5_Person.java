@@ -1,9 +1,9 @@
 // Задание 5
-public class Person {
+public class Task5_Person {
     public String name;
     String surname;
 
-    public Person(String name, String surname){
+    public Task5_Person(String name, String surname){
         this.name = name;
         this.surname = surname;
     }
